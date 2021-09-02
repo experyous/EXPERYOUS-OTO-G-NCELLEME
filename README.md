@@ -1,6 +1,6 @@
 
 # EXPERYOUS-OTO-G-NCELLEME
-Termux için gerekli 21 araç
+TERMUX OTOMATİK GÜNCELLEYİCİ
 <br><b>Kurulum</b><br>
 1=) pkg install git -y<br>
 2=) git clone https://github.com/experyous/EXPERYOUS-OTO-G-NCELLEME<br>
