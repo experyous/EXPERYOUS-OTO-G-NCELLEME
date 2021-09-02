@@ -51,4 +51,5 @@ pip2 install -r requirements.txt
 echo -e 'KURULUM TAMAMLANDI ✅'
 echo -e 'CODER @experyous ✔️'
 echo -e 'Telegram @experyous ✔️'
+echo -e "\033[33;4 BY EXPERYOUS\033[0m"
 clear
