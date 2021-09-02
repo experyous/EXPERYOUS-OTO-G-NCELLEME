@@ -1,20 +1,17 @@
 #!/bin/bash
-#Code: Experyous
-#Telegram: @experyous
-#Youtube : Experyous
-echo -e '\033[31;40;1m 
-		   ─────█─▄▀█──█▀▄─█─────
-		   ────▐▌──────────▐▌────
-		   ────█▌▀▄──▄▄──▄▀▐█────
-		   ───▐██──▀▀──▀▀──██▌───
-		   ──▄████▄──▐▌──▄████▄──
-      \e[35m      ☠         Code  : Experyous     ☠
-	  \e[34m☠	     Github : Experyous       ☠
-	 \e[33m☠  	    Youtube : Experyous        ☠
-	\e[32m☠ 	   Telegram : @Experyous      ☠
-	
-	\e[36m 	 BY EXPERYOUS
-
+pkg install git -y
+pkg install python python2 -y
+pkg install wget -y
+pkg install curl -y
+pkg install ruby -y
+pkg install php -y
+pkg install pip pip2 -y
+pkg install vim -y
+pkg install nano -y
+pkg install cat -y
+pkg install figlet -y
+pkg install cmatrix -y
+pkg install perl -y
 pkg install upgrade
 pkg install update
 apt install git
@@ -45,6 +42,10 @@ pkg install cmatrix -y
 pkg install perl -y
 apt update
 apt upgrade -y
+apt update
+apt upgrade -y
+echo -e 'KURULUM TAMAMLANDI ✅'
+echo -e 'CODER @experyous ✔️'
+echo -e 'Telegram @experyous ✔️'
 clear
-echo -e '\033[31;40;1m              Kurulum Tamamlandı ✅'
-sleep 2
+figlet Pofig
