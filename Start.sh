@@ -14,10 +14,7 @@ echo -e '\033[31;40;1m
 	\e[32m☠ 	   Telegram : @Experyous      ☠
 	
 	\e[36m 	 BY EXPERYOUS
-\e[32m[1]\e[33mTermux Güncelle'
 
-read -p "İşlem Numarası: " islem
-if [[ $islem == 1 || $islem == 01 ]]; then
 pkg install upgrade
 pkg install update
 apt install git
@@ -51,4 +48,3 @@ apt upgrade -y
 clear
 echo -e '\033[31;40;1m              Kurulum Tamamlandı ✅'
 sleep 2
-bash start.sh
