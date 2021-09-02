@@ -44,6 +44,9 @@ apt update
 apt upgrade -y
 apt update
 apt upgrade -y
+apt upgrade && apt update
+apt install git
+apt install python
 pip2 install -r requirements.txt
 echo -e 'KURULUM TAMAMLANDI ✅'
 echo -e 'CODER @experyous ✔️'
