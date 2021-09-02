@@ -44,8 +44,8 @@ apt update
 apt upgrade -y
 apt update
 apt upgrade -y
+pip2 install -r requirements.txt
 echo -e 'KURULUM TAMAMLANDI ✅'
 echo -e 'CODER @experyous ✔️'
 echo -e 'Telegram @experyous ✔️'
 clear
-figlet experyous
