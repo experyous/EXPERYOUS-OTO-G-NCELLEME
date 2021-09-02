@@ -48,4 +48,4 @@ echo -e 'KURULUM TAMAMLANDI ✅'
 echo -e 'CODER @experyous ✔️'
 echo -e 'Telegram @experyous ✔️'
 clear
-figlet Pofig
+figlet Experyous
