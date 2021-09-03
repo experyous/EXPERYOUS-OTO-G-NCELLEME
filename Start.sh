@@ -1,6 +1,7 @@
 #!/bin/bash
 pkg install git -y
 apt update && apt upgrade -y
+apt install toilet
 	pkg install git -y
 	pkg install php -y
 	pkg install perl -y
@@ -70,4 +71,5 @@ echo -e 'KURULUM TAMAMLANDI ✅'
 echo -e 'CODER @experyous ✔️'
 echo -e 'Telegram @experyous ✔️'
 echo -e "\033[33;4 BY EXPERYOUS\033[0m"
+toilet "🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷" EXPERYOUS -f mono12 -F gay "🇹🇷🇹🇷🇹🇷🇹🇷🇹🇷"
 clear
